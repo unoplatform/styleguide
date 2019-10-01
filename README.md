@@ -9,10 +9,10 @@
 ### RGB
 
 ```
-Green  : #67E5AD rbg : 103 229 173
-Violet : #7A67F8 rbg : 122 103 248
-Rose   : #F85977 rbg : 248  89 119
-Blue   : #159BFF rbg :  21 155 255
+Green  : #67E5AD rgb : 103 229 173
+Violet : #7A67F8 rgb : 122 103 248
+Rose   : #F85977 rgb : 248  89 119
+Blue   : #159BFF rgb :  21 155 255
 ```
 
 ### CMYK
