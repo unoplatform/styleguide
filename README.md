@@ -1,5 +1,9 @@
 # styleguide
 
+https://github.com/unoplatform/styleguide/blob/master/logo/uno-platform-logo-mark.png
+
+The backbone of the uno platform is this styleguide which consists of logo, presentations, etc. about uno platform 
+
 ## Font
 
 * Source Sans Pro family
