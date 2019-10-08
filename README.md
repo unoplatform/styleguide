@@ -43,3 +43,5 @@ This repo helps you find all the style guide and brand assets for Uno Platform
 ## Diagram
 
 <img src = 'diagrams/uno-platform-architecture.png' width = '20%' height = '20%'>
+
+<img src = 'diagrams/xamarin-forms-webassembly-renderer.png' width = '20%' height = '20%'>
