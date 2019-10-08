@@ -39,3 +39,7 @@ This repo helps you find all the style guide and brand assets for Uno Platform
 
 * [uno-platform-logo-with-text.png](logo/uno-platform-logo-with-text.png)
 <img src = 'logo/uno-platform-logo-with-text.png' width="10%" height="10%">
+
+## Diagram
+
+<img src = 'diagrams/uno-platform-architecture.png' width = '20%' height = '20%'>
