@@ -1,6 +1,6 @@
 # Styleguide
 
-This repo helps you find all the style guide and brand assets for the Uno Platform
+This repo helps you to find all the style guides and brand assets for the Uno Platform
 
 ## Font
 
